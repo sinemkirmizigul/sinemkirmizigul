@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Sinem from Istanbul.</p>
+<p align="left">I'm Sinem from Istanbul. I'm an industrial designer with a software passion except hardware. And I share what I'm trying to learn.</p>
 
 ###
 
